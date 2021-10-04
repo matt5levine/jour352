@@ -1,0 +1,36 @@
+#header {
+  text-align: center;
+  margin: auto;
+  width: 400px;
+}
+h1 {
+  color: #33485e;
+
+}
+#header
+  li {display:inline-block;}
+
+img {
+    max-width: 200px;
+    width: 100%;
+    align: right;
+
+}
+body {
+    margin: auto;
+    width: 550px;
+}
+
+h2 {
+    color: white;
+    background-color: navy;
+}
+
+p1 {
+    color: grey;
+}
+
+p2 {
+  color: white;
+  background-color: navy;
+}
