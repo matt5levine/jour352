@@ -1,0 +1,78 @@
+/* font-family: "Raleway", sans-serif; */
+
+.logo{
+  width: 80%;
+  margin: 0 auto 50px;
+  display: block;
+}
+
+.topper {
+  width: 80%;
+  margin: auto;
+  margin-bottom: 80px;
+}
+
+.topper h2 {
+  text-align: center;
+  color: #93b5af;
+}
+
+.kitchen-intro {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.event-house-description {
+  text-align: center;
+}
+
+body {
+  font-family: Raleway, sans-serif;
+  width: 80%;
+  margin: 30px auto;
+}
+
+.topper h2 {
+  border-top: 2px dotted #807a79;
+  border-bottom: 2px dotted #807a79;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+/* MENU */
+
+h3 {
+  text-transform: uppercase;
+  color: #ab3232;
+  border-bottom: 2px dotted #807a79;
+  letter-spacing: 2px;
+  width: 40%;
+  padding-bottom: 7px;
+  margin-bottom: 21px;
+  margin-top: 50px;
+  display: block;
+
+}
+
+.special {
+  background-color: #b8d9d3;
+  border: 2px dotted #807a79;
+  padding: 0 12px;
+}
+
+.price {
+  font-style: italic;
+}
+
+.item-option {
+  font-style: italic;
+  color: #807a79
+}
+
+h6 {
+  color: #ab3232
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-size: 8px;
+}
