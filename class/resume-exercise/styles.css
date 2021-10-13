@@ -112,3 +112,9 @@ img {
 	/* To fix alignment */
 	margin-top: 20px;
 }
+
+
+.flex-container {
+	display: flex;
+	align-itmes: left;
+}
