@@ -1,0 +1,23 @@
+h1 {
+  font-size: 52px;
+  color: white;
+  text-align: center;
+  background-color: blue;
+}
+
+iframe {
+  align-items: center;
+}
+
+li {
+  font-size: 30px;
+}
+
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
